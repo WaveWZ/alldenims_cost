@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy # veritabanı entegrasyonu için
+requests          # döviz API istekleri için (gerekirse)
+python-dotenv     # çevresel değişkenleri yönetmek için
+gunicorn          # deployment için (opsiyonel)
